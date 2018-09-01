@@ -5,6 +5,4 @@
  * @author bhupinder
  *
  */
-module corejava {
-	requires java.sql;
-}
+package com.uhl.lesson3;
